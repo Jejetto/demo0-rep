@@ -1,3 +1,3 @@
-# MARDWOWN TITLE 
+# MARKDOWN TITLE 
 ## subtitle 
 just normal text
